@@ -5,3 +5,5 @@ object HelloWorld {
 }
 
 helloWorld.main()
+
+helloWorld.main()
