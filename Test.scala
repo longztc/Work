@@ -28,5 +28,9 @@ object Main {
 		var nums = Array(1, 2, 3, 4)
 
 		println(myProduct2(nums))
+
+		for(num <- nums) {
+			println(num)
+		}
 	}
 }
