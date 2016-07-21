@@ -1,2 +1,3 @@
-import org.apache.spark.SparkContext
-import org.apache.spark.SparkConf
+package org.apache.spark.examples
+
+import org.apache.spark._
